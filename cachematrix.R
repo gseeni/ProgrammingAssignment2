@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 
 ## This funciton creates the special matrix object that can cache its reverse
 
